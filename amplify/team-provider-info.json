@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tvquiz-dev-170338-authRole",
+      "UnauthRoleArn": "arn:aws:iam::840580794677:role/amplify-tvquiz-dev-170338-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::840580794677:role/amplify-tvquiz-dev-170338-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tvquiz-dev-170338-deployment",
+      "UnauthRoleName": "amplify-tvquiz-dev-170338-unauthRole",
+      "StackName": "amplify-tvquiz-dev-170338",
+      "StackId": "arn:aws:cloudformation:us-east-1:840580794677:stack/amplify-tvquiz-dev-170338/02ecb770-71c4-11ed-9e67-0ab52ff4aab3",
+      "AmplifyAppId": "d2ouq1wrtwuczo"
+    },
+    "categories": {
+      "api": {
+        "tvquiz": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2ouq1wrtwuczo",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
