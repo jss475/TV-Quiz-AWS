@@ -31,9 +31,9 @@ TV Quiz is a fun site to test your TV rating knowledge. If you get 3 in a row ri
 </div>
 
 ## Project Demo 
-
-## Project Video
-[Click to view demo of TV Quiz]()
+[Click to try out TV Quiz] (https://dev.d2ouq1wrtwuczo.amplifyapp.com)
+<!-- ## Project Video
+[Click to view demo of TV Quiz]() -->
 
 ## Technologies
 
