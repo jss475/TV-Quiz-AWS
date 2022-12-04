@@ -81,6 +81,6 @@ The project is finished, but a lot more can be built on top of it!
 The inspiration for TV Quiz came as my partner and I wanted to build a project that people have fun with. We decided to go with a quiz on TV shows that most of us are familiar with.
 
 ## Contact
-Created by [Joseph Shin](https://www.linkedin.com/in/joseph-sw-shin/) 
+Created by [Joseph Shin](https://www.linkedin.com/in/joseph-sw-shin/) and Katey VanKerhove
 Feel free to contact me for any questions! 
 
